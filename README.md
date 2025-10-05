@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charles-akoukeng" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles akoukeng" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/charles-akoukeng-tech-élec" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles akoukeng" height="30" width="40" /></a>
 <a href="https://instagram.com/aktronic_lab" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aktronic_lab" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aktronic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aktronic" height="30" width="40" /></a>
 </p>
