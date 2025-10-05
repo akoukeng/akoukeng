@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0080FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Charles+Akoukeng;Electronics+Engineer+%E2%9A%A1;PCB+Designer+%F0%9F%92%BB;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Passionate about Electronics, Embedded Systems, and PCB Design</h3>
+<h3 align="center">Passionate about Electronics, PCB Design,and Embedded System</h3>
 
 <img align="right" alt="hardware" width="400" src="https://github.com/user-attachments/assets/e01048c8-8e60-485e-87f4-f0cb1661fe03" />
 
