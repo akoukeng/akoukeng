@@ -16,7 +16,7 @@
 
 - 🔭 I'm currently working on [Custom Electronic Clock](https://whimsical.com/clock-model-clk31-3y8Gj1sYP5hAdbffDsEcCh)
 - 🌱 I'm currently learning **Advanced Hardware Design & FPGA Development**
-- 💼 Specialized in **Embedded Systems, PCB Design & IoT Solutions**
+- 💼 Specialized in ** PCB Design,IoT Solutions & Embedded Systems**
 - 📫 How to reach me: **akoukengcharles@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
