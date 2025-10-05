@@ -36,13 +36,13 @@
 <h3 align="left">CAO Tools:</h3>
 <p align="left">
 <a href="https://easyeda.com/" target="_blank" rel="noreferrer">EasyEDA Pro</a> • 
-<a href="https://www.kicad.org/" target="_blank" rel="noreferrer">KiCAD</a> • 
+<a href="https://www.kicad.org/" target="_blank" rel="noreferrer">KiCAD</a> 
 </p>
 
 <h3 align="left">Simulation Tools:</h3>
 <p align="left">
 <a href="https://www.ni.com/en/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank" rel="noreferrer">Multisim</a> • 
-<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer">LTspice</a>
+<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer">LTspice</a> •
 <a href="https://www.ni.com/en/shop/labview.html" target="_blank" rel="noreferrer">LabVIEW</a>
 </p>
 
